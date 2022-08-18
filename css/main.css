@@ -1,0 +1,16 @@
+
+/* Menu */
+#menu {
+    font-size: 18px;
+    font-weight: bold;
+    color: #dd1b1b;
+}
+
+#menu form > button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.textcolor li a{
+    color: brown;
+}
